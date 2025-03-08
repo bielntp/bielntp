@@ -1,7 +1,7 @@
 ## Oi, me chamo Gabriel Machado.
 
-- 🔭 Em busca de um primeiro emprego
-- 🌱 Estudando java.
+- Em busca de um primeiro emprego
+- Estudando java.
 
 <div>
   <a href="https://github.com/bielntp">
