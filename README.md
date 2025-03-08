@@ -1,7 +1,7 @@
 ## Oi, me chamo Gabriel Machado.
 
 - Em busca de um primeiro emprego
-- Estudando java.
+- Estudando Java e Databases (MySQL).
 
 <div>
   <a href="https://github.com/bielntp">
